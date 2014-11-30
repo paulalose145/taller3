@@ -1,0 +1,68 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+	margin-top: 20px;
+	padding-top: 0;
+}
+
+#opciones{
+	background: gray;
+	text-align: center;
+}
+
+.icono{
+	display: inline-block;
+}
+
+img{
+	padding: 10px;
+	padding-bottom: 5px;
+	width: 80px;
+}
+
+h4{
+	text-align: center;
+	padding: 15px;
+}
+
+#Parques{
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+#areadesoltar{
+	background-color: #b2b2b2;
+	height: 130px;
+	position: relative;
+	width: 100%;
+}
+
+#mapa{
+	height: 500px;
+	width: 100%;
+}
+
+#map{
+	border: solid;
+	height: 500px;
+	margin: 20px auto;
+	width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
